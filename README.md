@@ -47,8 +47,21 @@ Checkout also goes through a server API route. The server validates the request,
 - GA4 helps measure public site activity after the visitor accepts analytics cookies.
 
 ---
+### Business analytics overview
+
+The admin dashboard brings together order counts, merchandise value, estimated gross profit, product costs, and order statuses. Daily charts show how orders and financial figures change over time, while a category chart shows where merchandise value comes from.
+
+The dashboard distinguishes estimates from complete financial data, so the owner has more context when reviewing the numbers.
+
+----
+
 
 ## Project screenshots
+
+### Admin — Orders & Business Analytics
+
+<!-- Add a screenshot of the overview metrics and charts here -->
+
 
 ### 01 — Homepage: First Impression
 A view of the homepage, navigation, and the visual direction of 213 RUN.
